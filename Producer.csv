@@ -1,0 +1,13 @@
+producer_id,f_name,l_name,dob,age,gender,nationality,marital_status
+1,Joey,McFarland,1972-04-30,43,M,US,married
+2,Michael,Mann,1943-02-05,73,M,US,married
+3,Jon,Landau,1960-07-23,55,M,US,married
+4,George,Clooney,1961-05-06,54,M,US,married
+5,Albert,Ruddy,1930-03-28,86,M,Cannada,divorced
+6,Lex,Lutzus,1980-10-01,35,W,UK,married
+7,Donna,Gigliotti,1955-01-11,60,M,US,married
+8,Albert,Ruddy,1930-03-28,86,M,Cannada,divorced
+9,Tim,Bevan,1957-12-20,58,M,new zeland,divorced
+10,Steve,Tisch,1949-02-14,67,M,US,divorced
+11,Arnon,Milchan,1944-12-06,71,M,Israeli,divorced
+12,Simon,Kinberg,1973-10-02,42,M,UK,married

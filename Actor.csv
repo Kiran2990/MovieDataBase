@@ -1,0 +1,13 @@
+actor_id,f_name,l_name,dob,age,net_worth,gender,nationality,marital_status
+1,Leonardo,DiCaprio,1974-11-11,41,217,M,US,single
+2,"Matt ",Damon,1970-10-08,45,75,M,US,married
+3,Eddie,Redmayne,1982-01-06,34,4,M,US,married
+4,Clint,Eastwood,1990-05-31,85,375,M,US,divorced
+5,"Morgan ",Freeman,1937-06-01,78,90,M,US,divorced
+6,"Will ",Smith,1968-09-25,47,250,M,US,married
+7,"Kate ",Winslet,1975-10-05,40,45,W,US,divorced
+8,Meryl,Streep,1949-06-22,66,45,W,US,married
+9,Jennifer,Lawerence,1990-08-15,25,60,W,US,single
+10,Cate,Blanchett,1969-05-14,46,45,W,US,married
+11,Angelina,Jolie,1975-06-04,40,145,W,US,married
+12,Julianne,Moore,1960-12-03,55,40,W,US,married
